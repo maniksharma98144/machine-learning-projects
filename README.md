@@ -1,2 +1,3 @@
 # machine-learning-projects
-projects by andrew ng coursera
+Projects by Andrew Ng on Coursera
+Implemented on Matlab
